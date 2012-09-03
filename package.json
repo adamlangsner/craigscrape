@@ -1,0 +1,19 @@
+{
+  "name": "craigscrape",
+  "version": "0.0.1",
+  "description": "an api for scraping apartments from craigslist",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamlangsner/craigscrape.git"
+  },
+  "keywords": [
+    "nodejs",
+    "http"
+  ],
+  "author": "Adam Langsner <adamlangsner@gmail.com>",
+  "license": "BSD"
+}
